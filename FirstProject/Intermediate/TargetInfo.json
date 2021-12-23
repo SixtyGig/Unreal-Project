@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstProject",
+			"Path": "C:\\Users\\runx3\\Documents\\GitHub\\Unreal-Project\\FirstProject\\Source\\FirstProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstProjectEditor",
+			"Path": "C:\\Users\\runx3\\Documents\\GitHub\\Unreal-Project\\FirstProject\\Source\\FirstProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\runx3\\Documents\\GitHub\\Unreal-Project\\FirstProject\\Source\\FirstProject\\FirstProject.Build.cs",
+		"C:\\Users\\runx3\\Documents\\GitHub\\Unreal-Project\\FirstProject\\Source\\FirstProject.Target.cs",
+		"C:\\Users\\runx3\\Documents\\GitHub\\Unreal-Project\\FirstProject\\Source\\FirstProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
